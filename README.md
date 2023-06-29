@@ -1,2 +1,2 @@
 # Weather-App
-## Gives weather details of the city the user enters.
+## This website gives the weather details about the city that the user enters.
